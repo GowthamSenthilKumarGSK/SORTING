@@ -2,9 +2,10 @@
 
 **Merge Sort Algorithm in C++**
 
-##Description:
+**Description:**
 
-This project demonstrates the implementation of the Merge Sort algorithm in C++. Merge Sort is a popular divide-and-conquer sorting algorithm that recursively divides an array, sorts the subarrays, and merges them to produce a sorted array.
+This project demonstrates the implementation of the Merge Sort algorithm in C++. 
+Merge Sort is a popular divide-and-conquer sorting algorithm that recursively divides an array, sorts the subarrays, and merges them to produce a sorted array.
 
 **Features:**
 - Recursive Merge Sort implementation.
@@ -23,9 +24,12 @@ This project demonstrates the implementation of the Merge Sort algorithm in C++.
 **QuickSort Algorithm in C++**
 
 **Description:**
-This project implements the Quick Sort algorithm in C++, which is a highly efficient, comparison-based sorting algorithm. Quick Sort works by selecting a pivot, partitioning the array around the pivot, and recursively sorting the subarrays.
+
+This project implements the Quick Sort algorithm in C++, which is a highly efficient, comparison-based sorting algorithm.
+Quick Sort works by selecting a pivot, partitioning the array around the pivot, and recursively sorting the subarrays.
 
 **Features:**
+
 Efficient sorting for integer arrays.
 Time complexity: O(n log n) on average.
 Recursive approach.
