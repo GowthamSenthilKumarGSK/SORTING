@@ -6,16 +6,16 @@
 This project demonstrates the implementation of the Merge Sort algorithm in C++. Merge Sort is a popular divide-and-conquer sorting algorithm that recursively divides an array, sorts the subarrays, and merges them to produce a sorted array.
 
 **Features:**
-Recursive Merge Sort implementation.
-Sorting for integer arrays.
-Efficient time complexity: O(n log n).
+- Recursive Merge Sort implementation.
+- Sorting for integer arrays.
+- Efficient time complexity : O(n log n).
 
 **Files**
-- 'main.cpp': The source code implementing the merge and MergeSort functions.
+- 'main.cpp' : The source code implementing the merge and MergeSort functions.
 
 **Functions:**
-- 'merge(A[], lb, mid, ub)': Merges two sorted subarrays.
-- 'MergeSort(A[], lb, ub)': Recursively splits and sorts the array.
+- 'merge(A[], lb, mid, ub)' : Merges two sorted subarrays.
+- 'MergeSort(A[], lb, ub)' : Recursively splits and sorts the array.
 
 
 
@@ -30,8 +30,8 @@ Time complexity: O(n log n) on average.
 Recursive approach.
 
 **Files**
-- 'main.cpp': The source code implementing QuickSort and partition functions.
+- 'main.cpp' : The source code implementing QuickSort and partition functions.
 
 **Functions:**
-- 'partition(arr[], lb, ub)': Rearranges the array based on the pivot and returns the pivot index.
-- 'quickSort(arr[], lb, ub)': Recursively applies the partitioning and sorting process.
+- 'partition(arr[], lb, ub)' : Rearranges the array based on the pivot and returns the pivot index.
+- 'quickSort(arr[], lb, ub)' : Recursively applies the partitioning and sorting process.
