@@ -2,7 +2,8 @@
 
 **Merge Sort Algorithm in C++**
 
-**Description:**
+##Description:
+
 This project demonstrates the implementation of the Merge Sort algorithm in C++. Merge Sort is a popular divide-and-conquer sorting algorithm that recursively divides an array, sorts the subarrays, and merges them to produce a sorted array.
 
 **Features:**
